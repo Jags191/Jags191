@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Jagravi Bisen — an ECE undergrad who wandered into the world of code and never looked back. I build projects ranging from web apps to hackathon experiments, always chasing that feeling of making something actually work. Python, AI/ML, and backend systems are where my curiosity lives, but I enjoy jumping across the stack. Music and books keep me sane between commits 🎵📚.<br>
+Hey, I'm Jagravi Bisen — an ECE undergrad who wandered into the world of code and never looked back. I build projects ranging from web apps to hackathon experiments, always chasing that feeling of making something actually work. Python, AI/ML, and backend systems are where my curiosity lives, but I enjoy jumping across the stack. Music and books keep me sane between commits .<br>
 
 
 ## 🌐 Socials:
